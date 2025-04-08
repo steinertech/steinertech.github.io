@@ -1,2 +1,2 @@
 # GitHub Page
-See alos https://steinertech.github.io/
+See also https://steinertech.github.io/
